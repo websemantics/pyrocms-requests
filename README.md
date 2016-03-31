@@ -31,7 +31,7 @@ Everyone else is free to submit pull requests to the project's repository and th
 
 ## Need Help?
 
-Have an idea thatyou already started work on? Do you want others to collaborate with you on the project and promotion? Submit an [issue](https://github.com/websemantics/pyrocms-requests/issues/new) describing your idea and requesting other developers to join you working on it.
+Have an idea that you already started work on? Do you want others to collaborate with you on the project and promotion? Submit an [issue](https://github.com/websemantics/pyrocms-requests/issues/new) describing your idea and requesting other developers to join you.
 
 
 ## Releated Projects

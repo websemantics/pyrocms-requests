@@ -8,7 +8,7 @@
 ```
 > Updated : 31 March 2016
 
-Get involved in submitting and building new Pyrocms projects, modules and addons ideas to be built by a community of awesome PHP developers creating open source software. 
+Get involved in submitting and building new PyroCMS projects, modules and addons ideas to be built by a community of awesome PHP developers creating open source software. 
 
 All requests are going to be maintained in the issues tracker of this repository.
 

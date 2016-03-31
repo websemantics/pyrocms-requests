@@ -17,7 +17,7 @@ All requests are going to be maintained in the issues tracker of this repository
 - [Browse and discuss ideas and requests](https://github.com/websemantics/pyrocms-requests/issues)
 
 
-# Requests Template
+## Requests Template
 
 When creating an idea request for a project or an addon, a list of [questions](https://github.com/websemantics/pyrocms-requests/blob/master/ISSUE_TEMPLATE) are proposed using [Github Issues Template](https://github.com/blog/2111-issue-and-pull-request-templates) feature. To request a change to the list of questions or add new ones, create a pull request.
 

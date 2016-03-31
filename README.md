@@ -29,7 +29,7 @@ Once an idea has been fleshed out and has interest from a group of people who wa
 Everyone else is free to submit pull requests to the project's repository and the core team can request that helpful contributors be added to the team.
 
 
-## Requesting your project be moved to H5BP
+## Need Help?
 
 Have an idea thatyou already started work on? Do you want others to collaborate with you on the project and promotion? Submit an [issue](https://github.com/websemantics/pyrocms-requests/issues/new) describing your idea and requesting other developers to join you working on it.
 

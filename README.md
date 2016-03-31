@@ -36,8 +36,8 @@ Have an idea thatyou already started work on? Do you want others to collaborate 
 
 ## Releated Projects
 
-- Awesome PyroCMS, https://github.com/websemantics/awesome-pyrocms
-- PyroCMS Cheatsheet, https://github.com/websemantics/pyrocms-cheatsheet
+- Awesome PyroCMS: A curated list of PyroCMS plugins and resources, https://github.com/websemantics/awesome-pyrocms
+- PyroCMS Cheatsheet: a list of commands and features for PyroCMS 3, https://github.com/websemantics/pyrocms-cheatsheet
 
 
 ## Credits

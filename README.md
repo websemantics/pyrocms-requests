@@ -4,6 +4,7 @@
   / /_/ /\  / /_/ / / / / /   / /|_/ /\__ \ 
  / ____/ / / _, _/ /_/ / /___/ /  / /___/ / 
 /_/     /_/_/ |_|\____/\____/_/  /_//____/ v3
+
 Project Requests
 ```
 > Updated : 31 March 2016
@@ -31,10 +32,15 @@ Everyone else is free to submit pull requests to the project's repository and th
 Have an idea thatyou already started work on? Do you want others to collaborate with you on the project and promotion? Submit an [issue](https://github.com/websemantics/pyrocms-requests/issues/new) describing your idea and requesting other developers to join you working on it.
 
 
-# Credits
+## Credits
 
 - Lazyweb, https://github.com/h5bp/lazyweb-requests
 
+
+## Releated Projects
+
+- Awesome PyroCMS, https://github.com/websemantics/awesome-pyrocms
+- PyroCMS Cheatsheet, https://github.com/websemantics/pyrocms-cheatsheet
 
 
 

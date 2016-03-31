@@ -1,4 +1,11 @@
-# Pyrocms Project Requests
+```
+    ______  ______  ____  ________  ________
+   / __ \ \/ / __ \/ __ \/ ____/  |/  / ___/
+  / /_/ /\  / /_/ / / / / /   / /|_/ /\__ \ 
+ / ____/ / / _, _/ /_/ / /___/ /  / /___/ / 
+/_/     /_/_/ |_|\____/\____/_/  /_//____/ v3
+Project Requests
+```
 > Updated : 31 March 2016
 
 Get involved in submitting and building new Pyrocms projects, modules and addons ideas to be built by a community of awesome PHP developers creating open source software. 
